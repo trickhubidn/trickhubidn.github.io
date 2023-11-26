@@ -1,6 +1,9 @@
+# site settings
 title:              Trick hub IDN
-email:              trickhubidn@gmail.com
-description:        A Blog Theme by Start Bootstrap
+subtitle:           "The story of a life"
+email:              "trickhubidn@gmail.com"
+header-img:         img/home-bg.jpg
+description:        "A Blog Theme by Start Bootstrap"
 author:             Habibur Rahaman 
 baseurl:            "/startbootstrap-clean-blog-jekyll"
 url:                "https://trickhubidn.github.io"
