@@ -1,12 +1,12 @@
 # site settings
 title:              Trick hub IDN
-subtitle:           "The story of a life"
-email:              "trickhubidn@gmail.com"
+subtitle:           'The story of a life'
+email:              'trickhubidn@gmail.com'
 header-img:         img/home-bg.jpg
-description:        "A Blog Theme by Start Bootstrap"
+description:        'A Blog Theme by Start Bootstrap'
 author:             Habibur Rahaman 
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://trickhubidn.github.io"
+baseurl:            '/startbootstrap-clean-blog-jekyll'
+url:                "https://trickhubidn.github.io'
 
 # Social Profiles
 twitter_username:   trickhubindia
@@ -21,7 +21,7 @@ google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 # Build settings
 markdown:           kramdown
 paginate:           5
-paginate_path:      "/posts/page:num/"
+paginate_path:      '/posts/page:num/'
 plugins:
   - jekyll-feed
   - jekyll-paginate
