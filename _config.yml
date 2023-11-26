@@ -6,7 +6,7 @@ header-img:         img/home-bg.jpg
 description:        'A Blog Theme by Start Bootstrap'
 author:             Habibur Rahaman 
 baseurl:            '/startbootstrap-clean-blog-jekyll'
-url:                "https://trickhubidn.github.io'
+url:                'https://trickhubidn.github.io'
 
 # Social Profiles
 twitter_username:   trickhubindia
